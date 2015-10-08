@@ -14,10 +14,9 @@
 <script>
 function myFunction() {
     var x = document.doctype.name;
-    var x2 = document.documentElement.nodeName;
+    
     document.getElementById("demo").innerHTML = x
-    document.getElementById("demo2").innerHTML = x2;
-}
+ }
 </script>
 
 </body>
